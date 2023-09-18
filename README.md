@@ -1,4 +1,3 @@
-# Curriculum-Vitae 修改中
 ![图1](https://github.com/YyangZhiHeng/Curriculum-Vitae/blob/main/picture/1.1.1.png)
 ![图2](https://github.com/YyangZhiHeng/Curriculum-Vitae/blob/main/picture/1.1.2.png)
 
